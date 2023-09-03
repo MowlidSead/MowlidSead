@@ -12,7 +12,7 @@
   <div align="center" style="margin: 40px 0">
       <!-- Followers -->
       <a href="https://github.com/mowlidsead?tab=followers">
-          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/halac?style=flat-square">
+          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/mowlidsead?style=flat-square">
       </a>
   </div>
 </h1>
