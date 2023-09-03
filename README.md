@@ -1,7 +1,7 @@
 <h1 align="center"> ~😎😜👍 Hi! I'm Mowlid Sead - Eng.Yariiso 😎🖤💥~ </h1>
 
 <hr>
-<h4 align="center">Other – <a href='http://tiigsi.com](https://www.youtube.com/@Code-Raz' target="_blank">@Code-Raz</a><h4>
+<h4 align="center">YouTube Channel – <a href='http://tiigsi.com](https://www.youtube.com/@Code-Raz' target="_blank">@Code-Raz</a><h4>
 
 <h1 align="center">
   <div align="center" style="margin: 40px 0">
